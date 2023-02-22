@@ -27,7 +27,7 @@ const languages = {
         xp8:"More Services",
         
         cat0:"Home Cleaning",
-        cat1:"Window Cleaning",
+        cat1:"Medical Cleaning",
         cat2:"Carpet Cleaning",
         cat3:"Indsutrial Cleaning",
         cat4:"Office Cleaning",
@@ -89,7 +89,7 @@ const languages = {
         xp8: "Plus de services",
 
         cat0: "Résidentiel",
-        cat1: "Vitres  ",
+        cat1: "Nettoyage médical",
         cat2: "Tapis   ",
         cat3: "Industriel",
         cat4: "Bureaux",
