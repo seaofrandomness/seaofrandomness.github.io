@@ -27,7 +27,7 @@ const languages = {
         xp8:"More Services",
         
         cat0:"Home Cleaning",
-        cat1:"Medical Cleaning",
+        cat1:"Window Cleaning",
         cat2:"Carpet Cleaning",
         cat3:"Indsutrial Cleaning",
         cat4:"Office Cleaning",
@@ -55,15 +55,11 @@ const languages = {
         con2:"Send Message",
 
         post0:"Apply",
-        post1:"Send us your resume for a job",
+        post1:"Send us your resume for a job at Castel Clean",
         post2:"Send resume",
 
         meet0:"Meet Our Team",
         meet1:"Meet Our Highly Experienced Cleaners",
-
-        p111:"We connect top talent with top companies.",
-        p222:"Save time and stress with our expert recruitment services.",
-        p333:"Welcome to our placement agency, where we are committed to helping you find the perfect candidate for your business.",
 
         },
     fr: {
@@ -93,7 +89,7 @@ const languages = {
         xp8: "Plus de services",
 
         cat0: "Résidentiel",
-        cat1: "Nettoyage médical",
+        cat1: "Vitres  ",
         cat2: "Tapis   ",
         cat3: "Industriel",
         cat4: "Bureaux",
@@ -117,16 +113,11 @@ const languages = {
 con1: "Contactez-nous pour des services de nettoyage",
 con2: "Envoyer un message",
 post0: "Postuler",
-post1: "Envoyez-nous votre C.V",
+post1: "Envoyez-nous votre C.V. pour un poste chez Castel Clean",
 post2: "Envoyer C.V", 
 
 meet0: "Rencontrez notre équipe",
-meet1: "Rencontrez nos nettoyeurs hautement expérimentés",
-
-p111:"Déterminés à vous aider à trouver le candidat idéal pour votre entreprise.",
-p333:"Nous mettons en relation les meilleurs talents avec les meilleures entreprises.",
-p222:"Économisez du temps et évitez le stress avec nos services experts de recrutement.",
-
+meet1: "Rencontrez nos nettoyeurs hautement expérimentés"
         },
 };
 const switchLanguageButton = document.getElementById("switch-language");
